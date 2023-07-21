@@ -17,3 +17,11 @@ where I was jointly advised by Prof. Balaraman Ravindran and Dr. Mitesh M. Khapr
 [How to pronounce my name?](https://translate.google.co.uk/?sl=mr&tl=en&text=%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%BE%20%E0%A4%AE%E0%A5%8B%E0%A4%98%E0%A5%87%20&op=translate)
 
 Please listen to the pronunciation in Marathi.
+
+## News
+
+July 2023: Extrinsic Evaluation of MT Metrics was awarded Outstanding Paper by ACL 2023!
+
+June 2023: Started internship at Microsoft Research
+
+May 2023: Extrinsic Eval and Multi3 were accepted to ACL 2023
