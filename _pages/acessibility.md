@@ -1,7 +1,6 @@
 ---
 permalink: /accessibility/
 title: "Accessibility Statement"
-excerpt: ""
 author_profile: true
 ---
 The design of this website closely follows the guidelines listed by the University of Edinburgh. 
