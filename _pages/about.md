@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at CDT in NLP, School of Informatics, University of Edinburgh advised by Dr. Alexandra Birch and Prof. Mark Steedman. My research interests lie in the field of Natural Language Processing. I am associated with the STATMT group. I will be exploring the area of multilingual dialogue systems.
+I am a final-year PhD student at CDT in NLP, School of Informatics, University of Edinburgh advised by Dr. Alexandra Birch and Prof. Mark Steedman. I am awaiting my viva.
+My research interests lie in the field of Natural Language Processing. I broadly work on dialogue, multilinguality, and evaluation. My recent works look at personalisation and MT evaluation abilities of LLMs while I am currently exploring development of domain-specific LLMs.
 
 Previously, I completed MS (by Research) from Indian Institute of Technology Madras 
-where I was jointly advised by Prof. Balaraman Ravindran and Dr. Mitesh M. Khapra. My thesis involved incorporating information from unstructured data to improve dialogue systems. I was also associated with RBC-DSAI. 
+where I was jointly advised by Prof. Balaraman Ravindran and Dr. Mitesh M. Khapra. 
+
+I have interned at Microsoft (Redmond, Bengaluru), PolyAI (London), and worked for a year at Robert Bosch Centre for Data Science and AI resulting in a collective research experience of 7 years across academia, big-tech, and start-ups.
 
 
 [How to pronounce my name?](https://translate.google.co.uk/?sl=mr&tl=en&text=%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%BE%20%E0%A4%AE%E0%A5%8B%E0%A4%98%E0%A5%87%20&op=translate)
 
 Please listen to the pronunciation in Marathi.
 
-## News
-
-July 2023: Extrinsic Evaluation of MT Metrics was awarded Outstanding Paper by ACL 2023!
-
-June 2023: Started internship at Microsoft Research
-
-May 2023: Extrinsic Eval and Multi3 were accepted to ACL 2023
+**I am on the job market** looking for Research Scientist/Applied Scientist roles. 
