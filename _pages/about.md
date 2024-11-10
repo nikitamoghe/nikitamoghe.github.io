@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at CDT in NLP, School of Informatics, University of Edinburgh advised by Dr. Alexandra Birch and Prof. Mark Steedman. I am awaiting my viva.
-My research interests lie in the field of Natural Language Processing. I broadly work on dialogue, multilinguality, and evaluation. My recent works look at personalisation and MT evaluation abilities of LLMs while I am currently exploring development of domain-specific LLMs.
-
+I recently graduated with a PhD from School of Informatics, University of Edinburgh where I was advised by Dr. Alexandra Birch and Prof. Mark Steedman. 
+My research interests lie in the field of Natural Language Processing. I broadly work on dialogue, multilinguality, and evaluation. My recent works look at personalisation and MT evaluation abilities of LLMs. 
 Previously, I completed MS (by Research) from Indian Institute of Technology Madras 
 where I was jointly advised by Prof. Balaraman Ravindran and Dr. Mitesh M. Khapra. 
 
@@ -20,4 +19,3 @@ I have interned at Microsoft (Redmond, Bengaluru), PolyAI (London), and worked f
 
 Please listen to the pronunciation in Marathi.
 
-**I am on the job market** looking for Research Scientist/Applied Scientist roles. 
